@@ -1,3 +1,3 @@
 # Libreria
 
-[DFD libreria](/imagenes/libreria.png)
+![DFD libreria](/imagenes/libreria.png)
